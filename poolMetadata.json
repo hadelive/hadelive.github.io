@@ -1,15 +1,7 @@
 {
-  "verification": "cf00cc5608a440672a",
-  "info": {
-    "url_png_icon_64x64": "https://avatars.githubusercontent.com/u/125997902?s=200&v=4",
-    "url_png_logo": "https://anastasialabs.com/assets/img/logo/logo.png",
-    "location": "Universe",
-    "social": {
-      "twitter_handle": "AnastasiaLabs"
-    },
-    "about": {
-      "me": "AnastasiaLabs stands as a proven stake pool, by and for the community.",
-      "company": "https://anastasialabs.com/"
-    }
-  }
+  "name": "AnastasiaLabs Stake Pool",
+  "description": "AnastasiaLabs stands as a proven stake pool, by and for the community. Delegate confidently, knowing your stake is secured in one of the network's finest pools.",
+  "ticker": "AL",
+  "homepage": "https://anastasialabs.com/",
+  "extended": "https://hadelive.github.io/poolMetadata_extended.json"
 }
