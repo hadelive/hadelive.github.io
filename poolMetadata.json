@@ -1,5 +1,5 @@
 {
-  "verification":"cf00cc5608a440672a",
+  "verification": "cf00cc5608a440672a",
   "info": {
     "url_png_icon_64x64": "https://avatars.githubusercontent.com/u/125997902?s=200&v=4",
     "url_png_logo": "https://anastasialabs.com/assets/img/logo/logo.png",
@@ -8,8 +8,8 @@
       "twitter_handle": "AnastasiaLabs"
     },
     "about": {
-      "me": "AnastasiaLabs stands as a proven stake pool, by and for the community. Delegate confidently, knowing your stake is secured in one of the network's finest pools.",
-      "server": "Global Cloud Servers 🌎: Unwavering Reliability. Our infrastructure spans diverse locations, guaranteeing 100% uptime. Constantly monitored by Prometheus and Grafana, ensuring round-the-clock server vigilance.",
+      "me": "AnastasiaLabs stands as a proven stake pool, by and for the community.",
+      "server": "Global Cloud Servers 🌎: Unwavering Reliability.",
       "company": "https://anastasialabs.com/"
     }
   }
